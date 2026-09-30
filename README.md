@@ -1,15 +1,8 @@
- My Contribution & Role
+ My Role in this Project
 
-As part of the development team, I was responsible for designing and implementing the Employer & Job Management Module:
+In this team project, I built the entire **Employer Module**:
 
-- **Job Post Lifecycle (CRUD Operations):**
-  - Developed functionality allowing employers to create and publish new job openings.
-  - Implemented features to view, edit, update, and delete existing job listings seamlessly.
-- **Job & Application Management:**
-  - Built the dashboard interface for employers to track active/inactive job posts.
-  - Managed applicant review workflows and post status updates.
-- **Backend & Database Integration:**
-  - Structured database queries (MySQL) to efficiently fetch, filter, and modify job records.
-  - Handled backend form validations and error handling using PHP to ensure data integrity.
-- **Session & Access Control:**
-  - Ensured only authorized employers can manage, edit, or delete their respective job posts.
+- Dashboard: Created an overview screen showing active job postings, total applicants, and pending reviews at a glance.
+- Job Management: Built the full workflow to create new job circulars, as well as view, edit, and delete existing posts.
+- Applicant Tracking: Added a candidate review screen where employers can view applicants, download CVs, and update their application status.
+- Profile Settings: Handled the company profile page to let employers update their contact details and company info.
